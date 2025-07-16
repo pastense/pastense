@@ -12,7 +12,7 @@ A FastAPI-based semantic search engine that stores web page visit data and enabl
 - **🤖 OpenAI Integration**: Generate high-quality embeddings using OpenAI's text-embedding-3-small model
 - **📡 REST API**: Clean FastAPI endpoints with JWT authentication
 - **🌐 CORS Support**: Cross-origin requests enabled for frontend integration
-- **💻 Modern Frontend**: React TypeScript UI with Tailwind CSS, glassmorphism design and responsive layout
+- **💻 Modern Frontend**: React TypeScript UI with Tailwind CSS and responsive layout
 
 ## 🏗️ Architecture
 
